@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tomgtech
 - 👀 I’m interested in becoming a full stack developer 
 - 🌱 I’m currently learning Web Development with Tech Educators and am learning the MERN stack
-- 💞️ I’m looking to collaborate on cool and interesting projects 
+- 🤝 I’m looking to collaborate on making cool and interesting interactive projects
 - 📫 How to reach me ...
 - ⚡ Fun fact: ...
 
